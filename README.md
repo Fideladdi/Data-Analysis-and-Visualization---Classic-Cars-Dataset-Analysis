@@ -21,3 +21,17 @@ Tools and Technologies Used
 - Jupyter Notebook: For creating an interactive solution document that combines code execution with descriptive text and results visualization.
 - Pandas: For data manipulation and analysis.
 - NumPy: For numerical operations on arrays and matrices.
+
+How to Run
+
+To run this project:
+
+    Clone the repository or download the Jupyter Notebook file Test1-Lastname.ipynb.
+    Ensure you have Jupyter Notebook installed, or use any IDE that supports .ipynb files.
+    Open the notebook and execute the cells sequentially to reproduce the analysis.
+
+Dependencies
+
+    Python 3.x
+    Pandas
+    NumPy
